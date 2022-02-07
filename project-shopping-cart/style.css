@@ -75,6 +75,10 @@
   text-align: center;
 }
 
+.cart__item {
+  cursor: pointer;
+}
+
 .loading {
   color: red;
   font-size: 2rem;
