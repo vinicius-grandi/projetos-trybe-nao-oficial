@@ -5,5 +5,5 @@ Deu vontade de fazer os projetos da Trybe
 - [x] _[Projeto - PIXEL ART](https://vinicius-grandi.github.io/projetos-trybe-nao-oficial/project-pixel-art/public/index.html)_
 - [x] _[Projeto - TODO LIST](https://vinicius-grandi.github.io/projetos-trybe-nao-oficial/project-to-do-list/public/index.html)_
 - [x] _[Projeto - FACEBOOK SIGNUP](https://vinicius-grandi.github.io/projetos-trybe-nao-oficial/project-facebook-signup/public/index.html)_
-
 - [x] _[Projeto - SHOPPING CART](https://vinicius-grandi.github.io/projetos-trybe-nao-oficial/project-shopping-cart/index.html)_
+- [x] _[Projeto - MOVIE CARDS LIBRARY](https://vinicius-grandi.github.io/nao-oficial-project-movie-cards-library/index.html)_
