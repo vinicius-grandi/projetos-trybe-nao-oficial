@@ -7,4 +7,5 @@ Deu vontade de fazer os projetos da Trybe
 - [x] _[Projeto - FACEBOOK SIGNUP](https://vinicius-grandi.github.io/projetos-trybe-nao-oficial/project-facebook-signup/public/index.html)_
 - [x] _[Projeto - SHOPPING CART](https://vinicius-grandi.github.io/projetos-trybe-nao-oficial/project-shopping-cart/index.html)_
 - [x] _[Projeto - MOVIE CARDS LIBRARY](https://vinicius-grandi.github.io/nao-oficial-project-movie-cards-library/index.html)_
-- [x] _[Projeto - MOVIE CARDS LIBRARY STATEFUL](https://vinicius-grandi.github.io/non-official-project-movie-card-library/)_
+- [x] _[Projeto - MOVIE CARDS LIBRARY STATEFUL](https://vinicius-grandi.github.io/non-official-project-movie-card-library/index.html)_
+- [x] _[Projeto - MOVIE CARDS LIBRARY CRUD](https://vinicius-grandi.github.io/project-movie-cards-library-crud/index.html)_
