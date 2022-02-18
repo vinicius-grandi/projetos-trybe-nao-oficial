@@ -9,3 +9,4 @@ Deu vontade de fazer os projetos da Trybe
 - [x] _[Projeto - MOVIE CARDS LIBRARY](https://vinicius-grandi.github.io/nao-oficial-project-movie-cards-library/index.html)_
 - [x] _[Projeto - MOVIE CARDS LIBRARY STATEFUL](https://vinicius-grandi.github.io/non-official-project-movie-card-library/index.html)_
 - [x] _[Projeto - MOVIE CARDS LIBRARY CRUD](https://vinicius-grandi.github.io/project-movie-cards-library-crud/)_
+- [x] _[Projeto - FRONTEND ONLINE STORE](https://vinicius-grandi.github.io/non-official-a-project-frontend-online-store/)_
